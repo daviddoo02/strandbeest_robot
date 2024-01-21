@@ -8,6 +8,8 @@ This project involves an object-following 3D printed Strandbeest robot inspired 
 
 The Strandbeest robot is equipped with a sonar sensor, enabling it to follow objects in its vicinity. The implemented feature uses a proportional feedback controller, allowing the robot to dynamically adjust its movements based on the feedback from the sonar sensor.
 
+P.S. The picture on the box is of our TA - we have an inside joke that "it only follows cool people."
+
 [![Video_demo](assets/in_action.gif)](assets/in_action.mp4)
 
 ### How it Works
